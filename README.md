@@ -4,13 +4,13 @@ Make sure your folder structure is like:
 ```
 C:.
 │   main.ipynb
+│   README.md
 └───archive
     └───samples
             226md.png
             22d5n.png
             2356g.png
             ...
-│   README.md
 ```
 
 Archive folder found in this dataset:
