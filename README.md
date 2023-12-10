@@ -1,7 +1,7 @@
 # Captcha Solver
 ## Instructions
 Make sure your folder structure is like:
-`
+```
 C:.
 │   main.ipynb
 └───archive
@@ -10,7 +10,7 @@ C:.
             22d5n.png
             2356g.png
             ...
-`
+```
 
 Archive folder found in this dataset:
 
