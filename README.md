@@ -13,6 +13,6 @@ C:.
             ...
 ```
 
-Archive folder found in this dataset:
+Archive folder found here:
 
 https://www.kaggle.com/datasets/fournierp/captcha-version-2-images
