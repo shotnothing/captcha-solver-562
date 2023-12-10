@@ -4,7 +4,7 @@ Make sure your folder structure is like:
 ```
 C:.
 │   main.ipynb
-│   README.md
+│   ...
 └───archive
     └───samples
             226md.png
